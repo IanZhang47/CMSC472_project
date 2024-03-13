@@ -3,6 +3,9 @@ This is a UMD CMSC472 project, working on Object Discovery Challenge refer to ht
 
 # Team Members:
 Yinuo Zhang
+
 Vance Degen
+
 Liam Chen
+
 Junyan Dai
