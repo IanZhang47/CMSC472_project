@@ -1,4 +1,4 @@
-Labeled dataset: PASCAL VOC 2007 split is downloaded and uploaded to google drive
+Labeled dataset: PASCAL VOC 2007 split, refer to http://host.robots.ox.ac.uk/pascal/VOC/voc2007/
 Discovery Set: COCO 2014 refer to: https://github.com/cocodataset/cocoapi
 Pre-training Set: ImageNet pre-training set, refer to: https://www.image-net.org/challenges/LSVRC/2012/2012-downloads.php
 Evaluation set: COCO 2014 training set
