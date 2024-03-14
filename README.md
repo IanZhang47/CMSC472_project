@@ -6,6 +6,4 @@ Yinuo Zhang
 
 Vance Degen
 
-Liam Chen
-
 Junyan Dai
