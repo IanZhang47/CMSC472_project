@@ -7,3 +7,5 @@ Yinuo Zhang
 Vance Degen
 
 Junyan Dai
+
+Andrew McNamara
